@@ -1,9 +1,9 @@
 # Site Info
-title: Codinfox Lanyon
+title: "Aaron Jang's study-log"
 tagline: "Aaron Jang's study-log"
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+description: "프로그래밍을 공부하며 배운 것을 기록하는 공간"
 baseurl: ""
-url: http://codinfox.github.io
+url: http://seungwooj.github.io/
 logo: "/public/profile.png"
 
 # Site configurations
