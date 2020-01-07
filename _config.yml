@@ -4,7 +4,7 @@ tagline: "Aaron Jang's study-log"
 description: "프로그래밍을 공부하며 배운 것을 기록하는 공간"
 baseurl: ""
 url: http://seungwooj.github.io/
-logo: "/public/img/profile.png"
+logo: "/public/img/profile.jpeg"
 
 # Site configurations
 gems:
