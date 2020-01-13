@@ -41,12 +41,12 @@ nav:
     - "/"
   Blog:
     - "/blog/"
-    - { Categories: "/blog/categories/" }
+    - { TIL(Today I Learned): "/blog/categories/#TIL(Today I Learned)/" }
     - { Tags: "/blog/tags/" }
   About:
-    - "/about/"
+    - "/about/" # about.md 수정
   Github Project:
-    - "http://codinfox.github.io/"
+    - "http://www.github.com/seungwooj"
 
 # Where are tags and categories displayed
 tag_page: "/blog/tags/"
