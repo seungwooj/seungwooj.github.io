@@ -6,6 +6,10 @@ const nextConfig = {
 	assetPrefix: isProd
 		? "https://cdn.statically.io/gh/seungwooj/seungwooj.github.io/"
 		: "",
+	images: {
+		loader: "akamai",
+		path: "",
+	},
 };
 
 module.exports = nextConfig;
