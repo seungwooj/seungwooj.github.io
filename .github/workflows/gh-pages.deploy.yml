@@ -23,6 +23,7 @@ jobs:
         run: npm install
       - name: Build Project
         run: npm run build
+        run: npm run export
         env:
           CI: true
       - name: Create Deploy directory
