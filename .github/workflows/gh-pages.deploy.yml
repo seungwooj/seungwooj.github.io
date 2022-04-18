@@ -21,9 +21,10 @@ jobs:
 
       - name: Install NPM Packages 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
         run: npm install
+      - name: Export Static files
+        run: npm run export
       - name: Build Project
         run: npm run build
-        run: npm run export
         env:
           CI: true
       - name: Create Deploy directory
