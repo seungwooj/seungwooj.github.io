@@ -1,18 +1,20 @@
 ## Todo
 
-### [ ] [Apply template](https://jamstackthemes.dev/ssg/next/)
+### General
 
-### [ ] [Add navigation on the top](https://wonyoungseo.github.io/)
+- [ ] [Apply template](https://jamstackthemes.dev/ssg/next/)
 
-Each tab of navigation will be as follows
+### Navigation
 
-### [ ] Profiles
+- [ ] [Add navigation on the top](https://wonyoungseo.github.io/)
+
+### Profiles
 
 - [ ] Link to SNS (incl. Linkedin, Github, Email)
 - [ ] Resume
 - [ ] Portfolio (incl. Link to Side Project)
 
-### [ ] Post (Each boards)
+### Post (Each boards)
 
 - [ ] TIL
 - [ ] Work Project (incl. Summary of what I learned _(notion)_)
@@ -20,6 +22,10 @@ Each tab of navigation will be as follows
 - [ ] Study (incl. Link to the study material _(notion)_)
 - [ ] Life in Japan (life blog)
 
-### [ ] Search
+### Search
 
-### [ ] Add comment function to the posts
+- [ ] Able to search posts using search input
+
+### Comments
+
+- [ ] Add comment function to the posts
