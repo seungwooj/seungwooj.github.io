@@ -2,13 +2,24 @@
 
 ### [ ] [Apply template](https://jamstackthemes.dev/ssg/next/)
 
-### [ ] Setup profiles
+### [ ] [Add navigation on the top](https://wonyoungseo.github.io/)
 
-### [ ] Setup boards
+Each tab of navigation will be as follows
+
+### [ ] Profiles
+
+- [ ] Link to SNS (incl. Linkedin, Github, Email)
+- [ ] Resume
+- [ ] Portfolio (incl. Link to Side Project)
+
+### [ ] Post (Each boards)
 
 - [ ] TIL
 - [ ] Work Project (incl. Summary of what I learned _(notion)_)
 - [ ] Side Projects (incl. Link to the project)
 - [ ] Study (incl. Link to the study material _(notion)_)
+- [ ] Life in Japan (life blog)
 
-### [ ] Add comment function
+### [ ] Search
+
+### [ ] Add comment function to the posts
