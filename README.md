@@ -1,6 +1,10 @@
 ## Todo
 
-### [ ] [Apply template](https://jamstackthemes.dev/ssg/next/)
+### [ ] [Apply template](https://jamstackthemes.dev/ssg/next/) 
+#### Reference: 
+https://www.youtube.com/watch?v=KvoFvmu5eRo 
+
+https://daleseo.com 
 
 ### [ ] Setup profiles
 
